@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { View, Text, TextInput } from 'react-native';
-import { FormLabel, Button } from 'react-native-elements';
+import { Button } from 'react-native-elements';
 import axios from 'axios';
 
 const ROOT_URL = 'https://us-central1-one-time-password-e5298.cloudfunctions.net';
